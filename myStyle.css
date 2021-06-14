@@ -1,0 +1,15 @@
+
+body{
+    margin: 0px;
+}
+
+#myBox
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rosybrown;
+    border-radius: 50%;
+}
